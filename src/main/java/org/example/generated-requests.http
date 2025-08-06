@@ -7,3 +7,6 @@ GET http://localhost:8080/
 GET http://localhost:8080/events
 
 <> 2025-08-06T220837.500.json
+
+###
+GET http://localhost:8080/events/rolling-average
