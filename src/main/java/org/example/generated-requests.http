@@ -1,0 +1,9 @@
+###
+GET http://localhost:8080/
+
+<> 2025-08-06T220745.200.txt
+<> 2025-08-06T220644.200.txt
+###
+GET http://localhost:8080/events
+
+<> 2025-08-06T220837.500.json
